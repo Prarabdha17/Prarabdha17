@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Prarabdha Dabhade! 👋  
 
-<!--
-**Prarabdha17/Prarabdha17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate and dedicated developer with an eagerness to learn and grow in the tech industry. I enjoy exploring new technologies, solving complex problems, and building impactful solutions.  
 
-Here are some ideas to get you started:
+## 🛠️ What I Do:  
+- Develop web applications  
+- Work on both frontend and backend technologies  
+- Continuously learn and improve my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 About Me:  
+- Curious and enthusiastic about innovation  
+- Love collaborating on projects and contributing to the developer community  
+- Always open to new opportunities and challenges  
+
+## 📩 Let’s Connect:  
+- GitHub: [https://github.com/Prarabdha17]  
+- LinkedIn: [https://www.linkedin.com/in/prarabdha-d/]  
+- Email: [prarabdha.dabhade@gmail.com]  
+
